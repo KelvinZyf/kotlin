@@ -2,37 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0247ea3c-8b71-4462-a1f9-0f575c0a0dc3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construc/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construc/MainTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construc/StringUtils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicproxy/Animal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicproxy/Dog.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicproxy/Zon.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playCode/BluePlay.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playCode/GreenPlay.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playCode/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playCode/MediaPlay.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playCode/PlayWindow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playCode/Player.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playCode/PlayerType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playCode/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playCode/VIPPlayer.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/META-INF/KotlinProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/lambda/LambdaKotlinKt$echo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProject/lambda/LambdaKotlinKt$echo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/lambda/LambdaKotlinKt$echo23$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProject/lambda/LambdaKotlinKt$echo23$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/lambda/LambdaKotlinKt$parmarLambda$thread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProject/lambda/LambdaKotlinKt$parmarLambda$thread$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/lambda/LambdaKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProject/lambda/LambdaKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/accrntjava/JavaClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/accrntjava/KotlinClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/accrntjava/KotlinDo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/accrntjava/KotlinDo__ModifyKotlinWeaveNameKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/accrntjava/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/accrntjava/UtilsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/datatype/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/datatype/AInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/datatype/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/datatype/KotlinClassKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/datatype/KotlinInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/datatype/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/one/primer/KotlinParmerKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/practice/PracticeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProject/practice/PracticeKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/practice/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProject/practice/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/two/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/two/AnimalKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/two/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/two/ExtendMethodClassKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/two/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/two/MethodClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/two/MethodClassKt$function$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/two/MethodClassKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/higherorderfunction/HigherOrderFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/higherorderfunction/HigherOrderFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProject/META-INF/KotlinProject.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProject/META-INF/KotlinProject.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,28 +33,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/higherorderfunction/HigherOrderFunction.kt">
+        <entry file="file://$PROJECT_DIR$/src/playCode/User.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lambda/LambdaJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="30">
+              <caret line="2" column="91" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/PracticeJava.java">
+        <entry file="file://$PROJECT_DIR$/src/playCode/PlayerType.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/playCode/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/playCode/PlayWindow.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/playCode/VIPPlayer.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/javax/swing/JOptionPane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="312" column="13" selection-start-line="312" selection-start-column="13" selection-end-line="312" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/playCode/MediaPlay.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/playCode/Player.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/playCode/GreenPlay.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/playCode/BluePlay.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -80,6 +129,8 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -112,17 +163,25 @@
         <option value="$PROJECT_DIR$/src/kotlin/Function23.java" />
         <option value="$PROJECT_DIR$/src/lambda/LambdaKotlin.kt" />
         <option value="$PROJECT_DIR$/src/higherorderfunction/HigherOrderFunction.kt" />
+        <option value="$PROJECT_DIR$/src/construc/MainTest.kt" />
+        <option value="$PROJECT_DIR$/src/construc/MainClass.kt" />
+        <option value="$PROJECT_DIR$/src/construc/StringUtils.kt" />
+        <option value="$PROJECT_DIR$/src/dynamicproxy/Animal.kt" />
+        <option value="$PROJECT_DIR$/src/dynamicproxy/Zoon.kt" />
+        <option value="$PROJECT_DIR$/src/dynamicproxy/Zon.kt" />
+        <option value="$PROJECT_DIR$/src/playCode/Player.kt" />
+        <option value="$PROJECT_DIR$/src/playCode/GreenPlay.kt" />
+        <option value="$PROJECT_DIR$/src/playCode/BluePlay.kt" />
+        <option value="$PROJECT_DIR$/src/playCode/User.kt" />
+        <option value="$PROJECT_DIR$/src/playCode/MediaPlay.kt" />
+        <option value="$PROJECT_DIR$/src/playCode/PlayWindow.kt" />
+        <option value="$PROJECT_DIR$/src/playCode/Main.kt" />
+        <option value="$PROJECT_DIR$/src/playCode/PlayerType.kt" />
+        <option value="$PROJECT_DIR$/src/playCode/VIPPlayer.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -132,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,19 +207,7 @@
               <item name="KotlinProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="higherorderfunction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="playCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KotlinProject" type="b2602c69:ProjectViewProjectNode" />
@@ -171,6 +217,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -182,6 +229,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="playCode" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,16 +247,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.higherorderfunction.HigherOrderFunctionKt">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preadfunction.MainClass" />
+  <component name="RunManager" selected="Kotlin.playCode.MainKt">
+    <configuration name="construc.MainTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="preadfunction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="construc.MainTestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="construc.StringUtilsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProject" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="construc.StringUtilsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamicproxy.ZonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProject" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="dynamicproxy.ZonKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -222,40 +300,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambda.LambdaKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="playCode.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lambda.LambdaKotlinKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="preadfunction.AnimalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinProject" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="preadfunction.AnimalKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="preadfunction.ExtendMethodClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinProject" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="preadfunction.ExtendMethodClassKt" />
+      <option name="MAIN_CLASS_NAME" value="playCode.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -263,11 +315,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.playCode.MainKt" />
+        <item itemvalue="Kotlin.dynamicproxy.ZonKt" />
+        <item itemvalue="Kotlin.construc.StringUtilsKt" />
+        <item itemvalue="Kotlin.construc.MainTestKt" />
         <item itemvalue="Kotlin.higherorderfunction.HigherOrderFunctionKt" />
-        <item itemvalue="Kotlin.lambda.LambdaKotlinKt" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Kotlin.preadfunction.AnimalKt" />
-        <item itemvalue="Kotlin.preadfunction.ExtendMethodClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -285,12 +337,14 @@
       <workItem from="1558763364101" duration="3089000" />
       <workItem from="1558766721982" duration="2455000" />
       <workItem from="1558769344829" duration="191000" />
-      <workItem from="1558769549235" duration="32000" />
+      <workItem from="1558769549235" duration="1464000" />
+      <workItem from="1558835471865" duration="88000" />
+      <workItem from="1561876399379" duration="7733000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17889000" />
+    <option name="totallyTimeSpent" value="27142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,8 +357,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23319027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23891273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -313,7 +368,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46506023" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46506023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,7 +376,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.49879518" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -337,7 +392,7 @@
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3297568" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22460657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23891273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -346,12 +401,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46506023" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46506023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.49879518" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -377,6 +432,18 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/playCode/VIPPlayer.kt</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KotlinProject$JavaClass.ic" NAME="JavaClass Coverage Results" MODIFIED="1558252509524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -532,17 +599,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaKotlin.kt">
+    <entry file="file://$PROJECT_DIR$/src/higherorderfunction/HigherOrderFunction.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+        <state relative-caret-position="600">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/higherorderfunction/HigherOrderFunction.kt">
+    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -553,10 +620,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaJava.java">
+    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaKotlin.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="420">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/construc/MainTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/construc/MainClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="100" selection-start-line="19" selection-start-column="100" selection-end-line="19" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/construc/StringUtils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamicproxy/Animal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamicproxy/Dog.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamicproxy/Zon.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playCode/GreenPlay.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playCode/BluePlay.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playCode/MediaPlay.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playCode/Player.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playCode/User.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="91" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playCode/PlayerType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playCode/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playCode/PlayWindow.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/javax/swing/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="312" column="13" selection-start-line="312" selection-start-column="13" selection-end-line="312" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playCode/VIPPlayer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
         </state>
       </provider>
     </entry>
